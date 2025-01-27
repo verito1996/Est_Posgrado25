@@ -25,4 +25,5 @@ mean(edad)
 var(edad)
 sd(edad)
 
+
 edad * c(2,3)
