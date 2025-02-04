@@ -35,3 +35,4 @@ gastos <- c(celular, transporte, comestibles, gimnasio, alquiler, otros)
 
 barplot (gastos, main = "Gastos", names.arg = c("Celular", "Transporte", "Comestibles", "Gimnasio", "Alquiler", "Otros"), col = rainbow (6))
 
+barplot (Gastosdecreciente, main = "Gastos Decreciente", names.arg = c("Otros", "Comestibles", "Alquiler", "Gimnasio", "Celular", "Transporte"), col = "orchid1")
