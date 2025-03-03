@@ -8,6 +8,9 @@ Importar datos a R proveniente de diferentes fuentes
 # Importar datos ----------------------------------------------------------
 
 
+
+
+
 ocampo <- read.csv("Datos_ocampo.csv", header = T)
 
 getwd()
