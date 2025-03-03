@@ -68,3 +68,4 @@ t.test(vivero$IE ~ vivero$Tratamiento, paired = T)
 
 # t.test una sola muestra
 t.test(vivero$IE, mu = 0.85)
+
