@@ -9,3 +9,4 @@ contenido del curso (8 semanas 20/01 - 10/03/2025)
 - :zap: Semana 4: Pruebas de t
 - :zap: Semana 5: Prueva de Anova
 - :zap: Semana 6: Prueba de t de una cola 
+- :dart: Semana 7: Regresión Lineal
