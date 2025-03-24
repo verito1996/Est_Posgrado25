@@ -21,11 +21,11 @@ altura2 <- rnorm(n, mean = 165, sd = 8) # Altura antes del tratamiento
 # Crear un data.frame para agrupar los datos
 datos <- data.frame(Altura = altura, Altura2 = altura2)
 
-# Realizar la prueba t pareada
-resultado_t_test <- t.test(datos$Altura, datos$Altura2, paired = TRUE)
+# Realizar la prueba t 
+resultado_t <- t.test(datos$Altura, datos$Altura2, paired = TRUE)
 
 # Ver los resultados
-print(resultado_t_test)
+print(resultado_t)
 
 # Codigo pregunta 14 y 15
 
@@ -36,8 +36,6 @@ peso <- 0.5 * altura + rnorm(n, mean = 0, sd= 5)
 
 
 cor.test(altura, peso)
-
-# p-value = 1.044e-05 y cor = 0.7114793 
 
 
 # Codigo pregunta 16
@@ -54,12 +52,12 @@ crecimiento <- c(rnorm(10, mean =15, sd= 2),
                  rnorm(10, mean =20, sd= 2),
                  rnorm(10, mean =25, sd= 2))
 # 4.
-datos2 <- data.frame(Suelo= suelo, Crecimiento= crecimiento)
+datos <- data.frame(Suelo= suelo, Crecimiento= crecimiento)
 
 # 5.
-print(datos2)
+print(datos)
 
-suelo.aov <- aov(datos2$Crecimiento ~  datos2$Suelo)  
+suelo.aov <- aov(datos$Crecimiento ~  datos$Suelo)  
 summary(suelo.aov) 
 
 set.seed(123)
