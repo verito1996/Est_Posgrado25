@@ -1,6 +1,8 @@
 # Est_Posgrado25
 Estadística de la investigación científica
 
+## Dirección del repositorio:
+
 contenido del curso (8 semanas 20/01 - 10/03/2025)
 
 - :dart: Semana 1: Creación del repositorio *Github*
@@ -10,3 +12,5 @@ contenido del curso (8 semanas 20/01 - 10/03/2025)
 - :zap: Semana 5: Prueva de Anova
 - :zap: Semana 6: Prueba de t de una cola 
 - :dart: Semana 7: Regresión Lineal
+
+![login](
