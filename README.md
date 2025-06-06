@@ -13,4 +13,4 @@ contenido del curso (8 semanas 20/01 - 10/03/2025)
 - :zap: Semana 6: Prueba de t de una cola 
 - :dart: Semana 7: Regresión Lineal
 
-![login](
+![login](https://github.com/verito1996/Est_Posgrado25/blob/main/Commits%20over%20time_vero.png?raw=true)
