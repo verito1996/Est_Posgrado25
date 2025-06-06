@@ -1,7 +1,7 @@
 # Est_Posgrado25
 Estadística de la investigación científica
 
-## Dirección del repositorio:
+## Dirección del repositorio: https://github.com/verito1996/Est_Posgrado25
 
 contenido del curso (8 semanas 20/01 - 10/03/2025)
 
